@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,7 @@ In 2022/2023 A.Y., he was an Assistant Researcher and a Contract Professor at [P
 
 In 2021/2022 A.Y., he was a Contract Professor at the [University of Milan "Bicocca"](https://en.unimib.it/).
 
-In 2021/2022 and 2021/2022 A.Y., he was a Teaching Assistant at the [University of Rome Tor Vergata](https://web.uniroma2.it/en).
+In 2021/2022 and 2021/2022 A.Y., he was a Teaching Assistant at the [University of Rome "Tor Vergata"](https://web.uniroma2.it/en).
 There he received a Ph.D. in Electronics Engineering in 2022 for his research titled [“Features Analysis of Microarchitectural Attacks and Hardware Trojans in Microprocessors: Detection & Mitigation Techniques”](https://centralesupelec-my.sharepoint.com/:b:/g/personal/alessandro_palumbo_centralesupelec_fr/EUBJZAidHXZFuDHxFtq1yngBKyGQWPrEjapn2FLPVRbJxQ?e=J4tnzd).
 
 In 2019 he took a master’s degree in Electronics Engineering for Telecommunications and Multimedia at the same university, where he also received his bachelor’s degree in Electronics Engineering in 2016.
