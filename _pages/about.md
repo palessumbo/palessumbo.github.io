@@ -14,7 +14,7 @@ Alessandro Palumbo is an Associate Professor at [CentraleSupeléc](https://www.c
 His research focus is Hardware Security. In particular, his interests include hardware acceleration of networking functions and CPU microarchitectures, with particular emphasis on Machine Learning techniques and Probabilistic Data Structures to guarantee security and reliability in microprocessor-based systems in both FPGA and In-Memory Computing scenarios.
 He worked in SESAMO and 5G-PICTURE, POR FESR 2014/2020 EU projects.
 
-In 2022/2023 A.Y., he was an Assistant Researcher and a Contract Professor at [Politecnico di Milano](https://www.polimi.it/en). There, his research activity was titled “Design of Integrated Circuits for High-Security Primitive of In-Memory Computing”.
+In 2022/2023 A.Y., he was an Assistant Researcher and a Contract Professor at the [Politecnico di Milano](https://www.polimi.it/en). There, his research activity was titled “Design of Integrated Circuits for High-Security Primitive of In-Memory Computing”.
 
 In 2021/2022 A.Y., he was a Contract Professor at the [University of Milan "Bicocca"](https://en.unimib.it/).
 
