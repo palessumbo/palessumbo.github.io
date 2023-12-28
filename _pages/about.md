@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 THIS IS A WORK IN PROGRESS WEBSITE
 ======
 Alessandro Palumbo is an Associate Professor at [CentraleSupelèc](https://www.centralesupelec.fr/) and an Associate Researcher at [IRISA Lab](https://www.irisa.fr/en), [Inria](https://www.inria.fr/en/inria-centre-rennes-university), [SUSHI Team](https://team.inria.fr/sushi/).
