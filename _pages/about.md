@@ -10,7 +10,7 @@ redirect_from:
 
 THIS IS A WORK IN PROGRESS WEBSITE
 ======
-Alessandro Palumbo is an Associate Professor at [CentraleSupelèc](https://www.centralesupelec.fr/) and an Associate Researcher at [IRISA Lab](https://www.irisa.fr/en), [Inria](https://www.inria.fr/en/inria-centre-rennes-university), [SUSHI Team](https://team.inria.fr/sushi/).
+Alessandro Palumbo is an Associate Professor at [CentraleSupeléc](https://www.centralesupelec.fr/) and an Associate Researcher at [IRISA Lab](https://www.irisa.fr/en), [Inria](https://www.inria.fr/en/inria-centre-rennes-university), [SUSHI Team](https://team.inria.fr/sushi/).
 His research focus is Hardware Security. In particular, his interests include hardware acceleration of networking functions and CPU microarchitectures, with particular emphasis on Machine Learning techniques and Probabilistic Data Structures to guarantee security and reliability in microprocessor-based systems in both FPGA and In-Memory Computing scenarios.
 He worked in SESAMO and 5G-PICTURE, POR FESR 2014/2020 EU projects.
 
