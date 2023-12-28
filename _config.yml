@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Alessandro Palumbo"
   avatar           : "profile.png"
-  bio              : "Avenue de la Boulaie-CS 47601, 35576, Cesson-Sévigné, France"
+  bio              : "Office 507, Avenue de la Boulaie-CS 47601, 35576, Cesson-Sévigné, France"
+  email            : "alessandro.palumbo@centralesupelec.fr"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0FAaenQAAAAJ&hl=en"
-  email            : "alessandro.palumbo@centralesupelec.fr"
+  linkedin         : "https://www.linkedin.com/in/alessandro-palumbo-5b178a12b/"
   researchgate     : "https://www.researchgate.net/profile/Alessandro-Palumbo-4"
   uri              :
   bitbucket        :
@@ -102,7 +103,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alessandro-palumbo-5b178a12b/"
   orcid            : 
   pinterest        :
   soundcloud       :
