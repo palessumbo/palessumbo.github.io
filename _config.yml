@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alessandro Palumbo | Biography"
+title                    : "Alessandro Palumbo  |  Biography"
 title_separator          : "-"
 name                     : &name "Alessandro Palumbo alessandro.palumbo@centralesupelec.fr"
 description              : &description "personal description"
