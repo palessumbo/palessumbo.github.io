@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant A.Y. 2022/2023"
 collection: teaching
-type: "Biomedical Engineering Bachelor Degree"
+type: "Bachelor Degree in Biomedical Engineering"
 permalink: /teaching/teaching-assistant-3
 venue: "Politecnico di Milano, Department of Electronics, Information and Bioengineering (DEIB)"
 date: 2022-01-01
