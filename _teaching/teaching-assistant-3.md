@@ -3,7 +3,7 @@ title: "Teaching Assistant A.Y. 2022/2023"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-assistant-3
-venue: "Politecnico di Milano, Biomedical Engineering Department"
+venue: "Politecnico di Milano, Department of Electronics, Information and Bioengineering (DEIB)"
 date: 2022-01-01
 location: "Milan, Italy"
 ---
