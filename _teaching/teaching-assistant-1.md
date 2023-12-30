@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant A.Y. 2020/2021"
 collection: teaching
-type: "Bachelor Degree"
+type: "Engineering Bachelor Degrees"
 permalink: /teaching/teaching-assistant-1
 venue: "University of Rome Tor Vergata, Information Engineering and Industrial Engineering Departments"
 date: 2020-01-01
