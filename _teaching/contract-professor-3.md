@@ -3,7 +3,7 @@ title: "Contract Professor A.Y. 2022/2023"
 collection: teaching
 type: "Bachelor Degree in Digital Electornics"
 permalink: /teaching/contract-professor-2
-venue: "Politecnico di Milano, Digital Engineering Department"
+venue: "Politecnico di Milano, Department of Electronics, Information and Bioengineering (DEIB)"
 date: 2022-01-02
 location: "Milan, Italy"
 ---
