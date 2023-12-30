@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/contract-professor-2
 venue: "Politecnico di Milano, Digital Engineering Department"
-date: 2022-01-01
+date: 2022-01-02
 location: "Milan, Italy"
 ---
 
