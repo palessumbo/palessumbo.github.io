@@ -1,7 +1,7 @@
 ---
 title: "Contract Professor A.Y. 2022/2023"
 collection: teaching
-type: "Undergraduate course"
+type: "Bachelor Degree in Digital Electornics"
 permalink: /teaching/contract-professor-2
 venue: "Politecnico di Milano, Digital Engineering Department"
 date: 2022-01-02
