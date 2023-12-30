@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor Degree"
 permalink: /teaching/teaching-assistant-2
 venue: "University of Rome Tor Vergata, Information Engineering and Industrial Engineering Departments"
-date:
+date: 2021-01-01
 location: "Rome, Italy"
 ---
 
