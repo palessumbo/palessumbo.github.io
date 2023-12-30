@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Rennes, France"
 ---
 
-Associate Professor for "Advanced Computer Networks" course
+Associate Professor for "Advanced Computer Networks" course, 2EL6110, Workload (HEE): 60
