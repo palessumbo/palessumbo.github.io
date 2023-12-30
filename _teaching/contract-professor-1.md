@@ -1,7 +1,7 @@
 ---
 title: "Contract Professor A.Y. 2021/2022"
 collection: teaching
-type: "Undergraduate course"
+type: "Bachelor Degree in Computer Science"
 permalink: /teaching/contract-professor-1
 venue: "University of Milan Bicocca, Computer Science Department"
 date: 2021-01-02
