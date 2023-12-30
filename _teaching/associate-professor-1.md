@@ -1,5 +1,5 @@
 ---
-title: "Contract Professor A.Y. 2023/2024"
+title: "Associate Professor A.Y. 2023/2024"
 collection: teaching
 type: "Master Degree in Cybersecurity"
 permalink: /teaching/associate-professor-1
