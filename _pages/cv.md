@@ -21,7 +21,7 @@ Work experience
     * Research work in EU projects SESAMO and 5G-PICTURE, POR FESR 2014/2020
 * From 11/2022 to 10/2023 Assistant Researcher, Politecnico di Milano – DEIB Department
     * Research activity titled: "Design of Integrated Circuits for High-Security Primitive of In-Memory Computing"
-* From 11/2023 Associate Researcher @ IRISA Lab, Inria SUSHI (SecUrity at the Software-Hardware Interface) team member
+* From 11/2023 Associate Researcher @ IRISA Lab, Inria SUSHI (SecUrity at the Software-Hardware Interface) team
     * Research focus: Hardware Security, Side-Channel Analysis, Side-Channel Attacks
   
 
