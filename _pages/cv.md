@@ -11,22 +11,18 @@ redirect_from:
 
 Education
 ======
-* A.Y. 2015/2016: Bachelor Degree in Electronic Engineering @ University of Rome Tor Vergata
-Sperimental thesis titled: “Development and FPGA Implementation of an Hardware Module for Encapsulating & Decapsuling Ethernet Packets
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Engineering, University of Rome Tor Vergata, 2016
+* M.S. in Electronic Engineering for Telecommunication and Multimedia, University of Rome Tor Vergata, 2019
+* Ph.D in Electronic Engineering, University of Rome Tor Vergata, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* From 04/2018 to 10/2019 Research work with CNIT, University of Rome Tor Vergata
+    * Research work in EU projects SESAMO and 5G-PICTURE, POR FESR 2014/2020
+* From 11/2022 to 10/2023 Assistant Researcher, Politecnico di Milano – DEIB Department
+    * Research activity titled: "Design of Integrated Circuits for High-Security Primitive of In-Memory Computing"
+* From 11/2023 Associate Researcher @ IRISA Lab, Inria SUSHI (SecUrity at the Software-Hardware Interface) team member
+    * Research focus: Hardware Security, Side-Channel Analysis, Side-Channel Attacks
   
 
 Publications
