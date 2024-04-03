@@ -14,7 +14,7 @@ His research focus is Hardware Security. In particular, his interests include ha
 
 He worked in SHANNON, SESAMO, 5G-PICTURE, POR FESR 2014/2020 EU projects.
 
-From April 2024 to July 2024, he was a Visiting Researcher at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), [University of California, Berkeley](https://www.berkeley.edu/) (research work focused sponsored by [NGI Enrichers](https://enrichers.ngi.eu/)).
+From April 2024 to July 2024, he was a Visiting Researcher at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), [University of California, Berkeley](https://www.berkeley.edu/) (research work funded by [NGI Enrichers](https://enrichers.ngi.eu/)).
 
 In 2022/2023 A.Y., he was an Assistant Researcher and a Contract Professor at the [Politecnico di Milano](https://www.polimi.it/en). There, his research activity was titled “Design of Integrated Circuits for High-Security Primitive of In-Memory Computing”.
 
