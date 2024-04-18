@@ -11,6 +11,7 @@ redirect_from:
 Alessandro Palumbo is an Associate Professor at [CentraleSupeléc](https://www.centralesupelec.fr/) and an Associate Researcher at [IRISA Lab](https://www.irisa.fr/en), [Inria](https://www.inria.fr/en/inria-centre-rennes-university), [SUSHI Team](https://team.inria.fr/sushi/).
 
 His research focus is Hardware Security. In particular, his interests include hardware acceleration of networking functions and CPU microarchitectures, with particular emphasis on Machine Learning techniques and Probabilistic Data Structures to guarantee security and reliability in microprocessor-based systems in both FPGA and In-Memory Computing scenarios.
+
 For a couple of years, he has also been investigating Natural Language Processing and Large Language Model techniques to extract features from texts aimed at carrying out further decision-making processes based on Machine Learning computations.
 
 He worked in SHANNON, SESAMO, 5G-PICTURE, POR FESR 2014/2020 EU projects.
