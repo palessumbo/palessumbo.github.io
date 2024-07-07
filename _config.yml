@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alessandro Palumbo  |  Biography"
 title_separator          : "-"
-name                     : &name "Alessandro Palumbo alessandro.palumbo@centralesupelec.fr"
+name                     : &name "Alessandro Palumbo alessandro.palumbo@inria.fr"
 description              : &description "personal description"
 url                      : https://palessumbo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Alessandro Palumbo"
   avatar           : "profile.png"
-  bio              : "alessandro.palumbo@centralesupelec.fr Office 507, Avenue de la Boulaie-CS 47601, 35576, Cesson-Sévigné, France"
-  email            : "alessandro.palumbo@centralesupelec.fr"
-  googlescholar    : "https://scholar.google.com/citations?user=0FAaenQAAAAJ&hl=en"
+  bio              : "alessandro.palumbo@inria.fr Office 507, Avenue de la Boulaie-CS 47601, 35576, Cesson-Sévigné, France"
+  email            : "alessandro.palumbo@inria.fr"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=OfK1whQAAAAJ"
   linkedin         : "alessandro-palumbo-5b178a12b/"
   researchgate     : "https://www.researchgate.net/profile/Alessandro-Palumbo-4"
   location         : 
