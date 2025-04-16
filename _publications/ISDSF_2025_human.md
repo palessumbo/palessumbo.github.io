@@ -1,11 +1,11 @@
 ---
-title: "Opening the Black Box: How Boolean AI can Support Legal Analysis"
+title: "Human-in-the-Loop: Legal Knowledge Formalization in Attempto Controlled English"
 collection: publications
-permalink: /publication/CCAI_2024
-excerpt: 
-date: 2024-05-25
-venue: '2024 IEEE the 4th International Conference on Computer Communication and Artificial Intelligence (CCAI)'
+permalink: /publication/ISDSF_2025_human
+excerpt: 'Accepted'
+date: 2025-04-24
+venue: '2025 IEEE 13th International Symposium on Digital Forensics and Security (ISDFS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10603017'
-citation: 'G. Garzo, S. Ribes and <b><u>A. Palumbo</u></b> (2024). &quot;Opening the Black Box: How Boolean AI can Support Legal Analysis.&quot; <i>2024 IEEE the 4th International Conference on Computer Communication and Artificial Intelligence (CCAI)</i>.'
+citation: 'G. Garzo, and <b><u>A. Palumbo</u></b> (2025). &quot;Opening the Black Box: How Boolean AI can Support Legal Analysis.&quot; <i>2025 IEEE 13th International Symposium on Digital Forensics and Security (ISDFS)</i>.'
 ---
 
