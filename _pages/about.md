@@ -12,7 +12,7 @@ Alessandro Palumbo is an Associate Professor at [CentraleSupeléc](https://www.c
 
 His research focus is Hardware Security. In particular, his interests include hardware acceleration of networking functions and CPU microarchitectures, with particular emphasis on Machine Learning techniques and Probabilistic Data Structures to guarantee security and reliability in microprocessor-based systems in both FPGA and In-Memory Computing scenarios.
 
-For a couple of years, he has also been investigating Natural Language Processing and Large Language Model techniques, aiming to carry out further decision-making processes.
+For a couple of years, he has also been investigating Natural Language Processing and Large Language Model techniques, aiming to carry out further digital decision-making processes.
 
 He worked in SHANNON, SESAMO, 5G-PICTURE, POR FESR 2014/2020 EU projects.
 
