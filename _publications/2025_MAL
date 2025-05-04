@@ -1,7 +1,7 @@
 ---
 title: "Leveraging gem5 for Hardware Trojan Research: Simulation for Machine-Learning-Based Detection"
 collection: publications
-permalink: /publication/2025_IOLTS
+permalink: /publication/2025_MAL
 excerpt:
 date: 2025-05-28
 venue: '10th International Workshop on Malicious Software and Hardware in the Internet of Things (MAL-IoT 2025)'
