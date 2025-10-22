@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Publications
 permalink: /publications/
+layout: single
 ---
 
 <div id="pubs-root">
@@ -17,7 +17,7 @@ permalink: /publications/
   const IDHAL = "alessandro-palumbo"; // your HAL id
   const ROOT = document.getElementById("pubs-root");
 
-  // Utility helpers
+  // Escape helper
   const escapeHTML = (s) => (s||"")
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
@@ -25,46 +25,35 @@ permalink: /publications/
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#039;");
 
+  // Venue
   function venueOf(d) {
     return d.journalTitle_s || d.bookTitle_s || d.conferenceTitle_s || d.serieTitle_s || "";
   }
 
+  // Links
   function halUrl(d) {
     if (d.halId_s) return `https://hal.science/${encodeURIComponent(d.halId_s)}`;
-    if (d.docid) return `https://hal.science/hal-${encodeURIComponent(d.docid)}`;
+    if (d.docid)   return `https://hal.science/hal-${encodeURIComponent(d.docid)}`;
     return null;
   }
-
   function pdfUrl(d) {
-    // HAL often exposes main file via fileMain_s. If not present, fall back to HAL page.
     if (d.fileMain_s) return d.fileMain_s.startsWith("http") ? d.fileMain_s : `https://hal.science/${d.fileMain_s}`;
     return null;
   }
-
   function doiUrl(d) {
     return d.doiId_s ? `https://doi.org/${encodeURIComponent(d.doiId_s)}` : null;
   }
-
   function bibtexUrl(d) {
     if (d.halId_s) return `https://hal.science/${encodeURIComponent(d.halId_s)}/bibtex`;
-    if (d.docid) return `https://hal.science/hal-${encodeURIComponent(d.docid)}/bibtex`;
+    if (d.docid)   return `https://hal.science/hal-${encodeURIComponent(d.docid)}/bibtex`;
     return null;
   }
 
+  // Badge
   function typeBadge(t) {
     if (!t) return "";
-    const map = {
-      ART: "Journal",
-      COMM: "Conference",
-      POSTER: "Poster",
-      THESE: "Thesis",
-      HDR: "HDR",
-      OUV: "Book",
-      COUV: "Chapter",
-      REPORT: "Report",
-      PATENT: "Patent",
-      OTHER: "Other"
-    };
+    const map = { ART:"Journal", COMM:"Conference", POSTER:"Poster", THESE:"Thesis", HDR:"HDR",
+                  OUV:"Book", COUV:"Chapter", REPORT:"Report", PATENT:"Patent", OTHER:"Other" };
     const label = map[t] || t;
     return `<span class="px-2 py-0.5 text-xs rounded bg-gray-200">${escapeHTML(label)}</span>`;
   }
@@ -72,7 +61,7 @@ permalink: /publications/
   function itemHTML(d) {
     const title = escapeHTML(d.label_s || "(untitled)");
     const where = escapeHTML(venueOf(d));
-    const year = d.producedDateY_i || "";
+    const year  = d.producedDateY_i || "";
     const links = [];
     const uHAL = halUrl(d); if (uHAL) links.push(`<a href="${uHAL}" target="_blank" rel="noopener">HAL</a>`);
     const uPDF = pdfUrl(d); if (uPDF) links.push(`<a href="${uPDF}" target="_blank" rel="noopener">PDF</a>`);
@@ -98,7 +87,6 @@ permalink: /publications/
       byYear.get(y).push(d);
     }
     const years = Array.from(byYear.keys()).sort((a,b) => String(b).localeCompare(String(a)));
-
     ROOT.innerHTML = years.map(y => `
       <section class="pub-year">
         <h2>${escapeHTML(String(y))}</h2>
@@ -110,14 +98,15 @@ permalink: /publications/
   }
 
   async function fetchHAL() {
-    const base = "https://api.archives-ouvertes.fr/search/";
+    // NOTE: use /search/index/ and quote the idHAL to be safe with hyphens
+    const base = "https://api.archives-ouvertes.fr/search/index/";
     const fields = [
       "docid","halId_s","label_s","authFullName_s","producedDateY_i","docType_s",
       "journalTitle_s","bookTitle_s","conferenceTitle_s","serieTitle_s",
       "publicationDate_s","doiId_s","fileMain_s","linkExtUrl_s"
     ];
     const params = new URLSearchParams({
-      q: `authIdHal_s:${IDHAL}`,
+      q: `authIdHal_s:"${IDHAL}"`,
       fl: fields.join(","),
       wt: "json",
       rows: "500",
@@ -137,10 +126,13 @@ permalink: /publications/
       render(docs);
     } catch (err) {
       console.error(err);
-      const profile = `https://hal.science/search/index/?q=authIdHal_s%3A${encodeURIComponent(IDHAL)}`;
+      const profile = `https://hal.science/search/index/?q=authIdHal_s%3A${encodeURIComponent('"' + IDHAL + '"')}`;
       ROOT.innerHTML = `
         <p>Could not load publications from HAL right now.</p>
-        <p>You can check your HAL profile here: <a href="${profile}" target="_blank" rel="noopener">${profile}</a></p>
+        <p>Test the API call directly here:<br>
+           <a href="${url}" target="_blank" rel="noopener">${escapeHTML(url)}</a></p>
+        <p>Your HAL profile search:<br>
+           <a href="${profile}" target="_blank" rel="noopener">${escapeHTML(profile)}</a></p>
       `;
     }
   }
