@@ -10,13 +10,13 @@ redirect_from:
 
 Alessandro Palumbo is an Associate Professor at [CentraleSupeléc](https://www.centralesupelec.fr/) and an Associate Researcher at [IRISA Lab](https://www.irisa.fr/en), [Inria](https://www.inria.fr/en/inria-centre-rennes-university), [SUSHI Team](https://team.inria.fr/sushi/).
 
-His research focus is Hardware Security. In particular, his interests include hardware acceleration of networking functions and CPU microarchitectures, with particular emphasis on Machine Learning techniques and Probabilistic Data Structures to guarantee security and reliability in microprocessor-based systems in both FPGA and In-Memory Computing scenarios.
+His research focus is Hardware Security. In particular, his interests include hardware acceleration of networking functions and CPU microarchitectures, with particular emphasis on Machine Learning techniques and Probabilistic Data Structures to guarantee security and reliability in microprocessor-based systems in both FPGA and In-Memory Computing scenarios. He has also been investigating Natural Language Processing and Large Language Model techniques, aiming to carry out further digital decision-making processes.
 
-For a couple of years, he has also been investigating Natural Language Processing and Large Language Model techniques, aiming to carry out further digital decision-making processes.
-
-He worked in SHANNON, SESAMO, 5G-PICTURE, POR FESR 2014/2020 EU projects.
+From April 2026 to May 2026, he is a Visiting Researcher at Université Côte d’Azur, within the [SPLiTS Inria team](https://team.inria.fr/splits/), where he is conducting research on microprocessor security and hardware-based protection mechanisms.
 
 From April 2024 to July 2024, he was a Visiting Researcher at the [International Computer Science Institute (ICSI)](https://www.icsi.berkeley.edu/icsi/), [University of California, Berkeley](https://www.berkeley.edu/) (research work funded by [NGI Enrichers](https://enrichers.ngi.eu/), more information [here](https://enrichers.ngi.eu/fellow/alessandro-palumbo/)).
+
+He worked in SHANNON, SESAMO, 5G-PICTURE, POR FESR 2014/2020 EU projects.
 
 In 2022/2023 A.Y., he was an Assistant Researcher and a Contract Professor at the [Politecnico di Milano](https://www.polimi.it/en). There, his research activity was titled “Design of Integrated Circuits for High-Security Primitive of In-Memory Computing.”
 
